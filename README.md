@@ -1,6 +1,6 @@
 # 🤖 Regression Neural Network with Keras
 
-This Jupyter Notebook project is a hands-on practice in *deep learning* and regression using *Keras* (TensorFlow). We build a feed-forward neural network to predict concrete strength from compositional features.
+This Jupyter Notebook project is a hands-on practice in **deep learning** and regression using **Keras** (TensorFlow). We build a feed-forward neural network to predict concrete strength from compositional features.
 
 ---
 
@@ -13,11 +13,11 @@ Our goal is to predict the concrete’s *compressive strength* (MPa) using a neu
 
 ## 🛠 Libraries Used
 
-- *pandas* – data loading & manipulation  
-- *numpy* – numerical operations  
-- *matplotlib* – plotting  
-- *tensorflow.keras* – building & training the neural network  
-- *scikit-learn* – train/test split & metrics  
+- **pandas** – data loading & manipulation  
+- **numpy** – numerical operations  
+- **matplotlib** – plotting  
+- **tensorflow.keras** – building & training the neural network  
+- **scikit-learn** – train/test split & metrics  
 
 ---
 
